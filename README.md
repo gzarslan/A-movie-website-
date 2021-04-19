@@ -21,6 +21,7 @@ WEB322 assignment 3-5
    
  6. To run project locally:
     The libraries Node.js and npm must be upload.
+    Command ---npm start
     
     Create config file that inclues enviroment varibales;
           * SEND_GRID_API_KEY
