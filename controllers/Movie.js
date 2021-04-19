@@ -377,7 +377,7 @@ try{
   var error="";
 
   if(filterByTitle.length==0){
-      error= "Sorry, can't find the movies";
+      error= "No movie Found";
   }
   else{
       if (filterByTitle.length>0){
